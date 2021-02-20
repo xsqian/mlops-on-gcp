@@ -6,4 +6,4 @@ In this lab, you will build, deploy, and run a KFP pipeline that orchestrates **
 ## Lab instructions
 The lab instructions are in the `lab-02.ipynb` notebook.
 
-![my gcp run result]("ScreenShot2021-02-19at10.02.52PM.png")
+![my gcp run result](ScreenShot2021-02-19at10.02.52PM.png)
